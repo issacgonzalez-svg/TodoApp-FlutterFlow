@@ -110,7 +110,7 @@ class _TasksWidgetState extends State<TasksWidget> {
                       padding:
                           EdgeInsetsDirectional.fromSTEB(24.0, 0.0, 0.0, 0.0),
                       child: Text(
-                        'Tasks',
+                        'My Tasks',
                         style: FlutterFlowTheme.of(context)
                             .headlineMedium
                             .override(
